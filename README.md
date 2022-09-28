@@ -1,2 +1,2 @@
- #OpenZip
- Open Zip is a tool to find the password of a zip file using the brute-force method and the power of the distribuied applications.
+# OpenZip
+![](https://github.com/Funpy97/OpenZip/blob/master/assets/images/logo/png/logo-color.png?raw=true)
